@@ -20,7 +20,7 @@
 <h4>Databases</h4>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-<img src="https://img.shields.io/badge/mariadb-#003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 
 <br>
 <br>
