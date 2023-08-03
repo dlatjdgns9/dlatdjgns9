@@ -8,7 +8,6 @@
 
 <H3>✔ Tech Stacks ✔</H3>
 
-<h4>Languages</h4>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
